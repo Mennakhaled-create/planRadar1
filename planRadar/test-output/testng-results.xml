@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-06T19:51:57 EET" name="Default suite" finished-at="2024-12-06T19:52:32 EET" duration-ms="34873">
+    <groups>
+    </groups>
+    <test started-at="2024-12-06T19:51:57 EET" name="Default test" finished-at="2024-12-06T19:52:32 EET" duration-ms="34873">
+      <class name="planRadar.createFormTestCases">
+        <test-method is-config="true" signature="open()[pri:0, instance:planRadar.createFormTestCases@7e6f74c]" started-at="2024-12-06T19:51:57 EET" name="open" finished-at="2024-12-06T19:52:10 EET" duration-ms="12849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="createForm()[pri:0, instance:planRadar.createFormTestCases@7e6f74c]" started-at="2024-12-06T19:52:10 EET" name="createForm" finished-at="2024-12-06T19:52:32 EET" duration-ms="21971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createForm -->
+        <test-method is-config="true" signature="close()[pri:0, instance:planRadar.createFormTestCases@7e6f74c]" started-at="2024-12-06T19:52:32 EET" name="close" finished-at="2024-12-06T19:52:32 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- planRadar.createFormTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
