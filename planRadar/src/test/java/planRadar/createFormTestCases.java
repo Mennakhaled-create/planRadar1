@@ -19,9 +19,9 @@ public class createFormTestCases {
   public void createForm() {
 	  loginDriver.acceptCookies();
 	  loginDriver.clickLoginBtn();
-	  loginDriver.enterUsername("menna28khaled@gmail.com");
+	  loginDriver.enterUsername("ENTER YOUR EMAIL ADDRESS");
 	  loginDriver.login();
-	  loginDriver.enterPassword("menna1996");
+	  loginDriver.enterPassword("ENTER YOUR PASSWORD");
 	  loginDriver.login();
 	  chooseCreateFormDriver.clickCollapseBtn();
 	  chooseCreateFormDriver.clickformAndListBtn();
